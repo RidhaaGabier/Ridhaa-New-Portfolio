@@ -21,7 +21,7 @@ body {
 }
 .nav-item:hover {
   text-decoration: none;
-  border-bottom: 2px solid rgb(136, 107, 58);
+  border-bottom: 2px solid #f5ba09;
   transition: 0.5s ease;
 }
 
@@ -48,6 +48,10 @@ body {
   color: white;
   background: #313552;
   border-radius: 0.5rem;
+}
+.skill-level{
+  text-align: center;
+  color: #f5ba09;
 }
 
 .card {
